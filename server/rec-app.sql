@@ -1,0 +1,4 @@
+-- This database dump has been removed from the project.
+-- It contained user accounts, and the recipe data is now loaded with:
+--     cd server && python load_json.py
+-- This file is safe to delete.
