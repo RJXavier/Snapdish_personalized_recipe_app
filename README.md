@@ -1,6 +1,6 @@
-# The Pantry — AI recipe recommendations from what's in your fridge
+# Snapdish — AI recipe recommendations from what's in your fridge
 
-**The Pantry** is a Flutter mobile app with a FastAPI backend. Take a photo of your
+**Snapdish** is a Flutter mobile app with a FastAPI backend. Take a photo of your
 ingredients (or pick them from a list) and get recipes ranked for you, filtered by your
 dietary preferences.
 
