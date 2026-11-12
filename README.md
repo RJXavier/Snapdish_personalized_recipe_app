@@ -13,20 +13,17 @@ dietary preferences.
 - **Saved recipes and history** — favourite recipes, and see the recipes and ingredients
   you used most.
 
-<!--
-## Screenshots
 
-Capture these with the app running (see docs/screenshots/README.md), then remove this
-comment so the table shows on GitHub.
+## Screenshots
 
 | Login | Home | Pick ingredients |
 |---|---|---|
-| ![Login](docs/screenshots/01_login.png) | ![Home](docs/screenshots/02_home.png) | ![Ingredients](docs/screenshots/03_ingredients.png) |
+| ![Login](screenshots/login.jpg) | ![Home](screenshots/menu.jpg) | ![Ingredients](screenshots/ingredients.jpg) |
 
-| Snap your food | Recommended recipes | Recipe details | Profile |
+| Snap your food | Recommended Recipes | Recipe Details | Recipe Book |
 |---|---|---|---|
-| ![Snap](docs/screenshots/04_snap.png) | ![Recipes](docs/screenshots/05_recipes.png) | ![Details](docs/screenshots/06_recipe_details.png) | ![Profile](docs/screenshots/07_profile.png) |
--->
+| ![Snap](screenshots/snap.jpg) | ![Recipes](screenshots/recom.jpg) | ![Details](screenshots/recipe.jpg) | ![Profile](screenshots/recbook.jpg) |
+
 
 ## Tech stack
 
